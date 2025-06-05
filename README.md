@@ -1,6 +1,11 @@
 # genshin-yomichan-dictionaries
 Yomichan dictionaries for Genshin and generating scripts
 
+## Todo
+- Support for more languages: KO, JA
+- Fix the goddamn pinyin, somehow
+- Add more words from other data sources (are there any rn idk)
+
 ## Sources
 - GenshinDict (simplified only): [GenshinDict](https://genshin-dictionary.com/en/opendata) (and the [repo](https://github.com/xicri/genshin-langdata))
 - GenshinDBDict (simplified and traditional): [GenshinDB](https://github.com/theBowja/genshin-db) (for GenshinDBDict)
